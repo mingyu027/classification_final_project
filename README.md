@@ -2,5 +2,5 @@
 
 code for prediction
 ```sh
-y_pred = log_reg.predict(X_test)
+y_pred = model.predict(X_test)
 ```
