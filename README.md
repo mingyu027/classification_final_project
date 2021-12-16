@@ -1,3 +1,6 @@
 # Classification Model for Face Recognition
 
-Github also supports something called code fencing, which allows for multiple lines without indentation:“`if (isAwesome){return true}
+code for prediction
+```sh
+y_pred = log_reg.predict(X_test)
+```
