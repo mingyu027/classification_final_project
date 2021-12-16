@@ -1,3 +1,3 @@
 # Classification Model for Face Recognition
 
-This is a code for predicting the test model of X: "'{y_pred = log_reg.predict(X_test)}
+Githubalso supports something called code fencing, which allows for multiple lines without indentation:“`if(isAwesome){return true}
