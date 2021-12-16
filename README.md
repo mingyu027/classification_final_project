@@ -1,4 +1,4 @@
-###### Classification Model for Face Recognition
+# Classification Model for Face Recognition
 ### Project Title
 ### Motivation
 
